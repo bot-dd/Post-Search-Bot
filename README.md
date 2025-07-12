@@ -55,13 +55,13 @@ connections - Get connected channels list
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/sewxiy/Post-Search-Bot"">
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/Codeflix-Bots/Post-Search-Bot"">
      <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/sewxiy/Post-Search-Bot">
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Codeflix-Bots/Post-Search-Bot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a></p>
 </details>
